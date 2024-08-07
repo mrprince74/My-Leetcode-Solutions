@@ -10,9 +10,9 @@
 <br>
 <br>
 
-<b>Total Solved Problems: 71 / 75 </b>
+<b> Total Solved Problems: 75 / 75 🎉 </b>
 
-### Repo Status
+## Repo Tags Status
 
 
 - [X] Array - String
@@ -31,7 +31,7 @@
 - [X] Heap / Priority Queue
 - [X] Binary Search
 - [X] Backtracking
-- [ ] DP - 1D
+- [X] DP - 1D
 - [X] DP - Multidimensional
 - [X] Bit Manipulation
 - [X] Trie
