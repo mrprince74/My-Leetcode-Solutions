@@ -1,3 +1,4 @@
+![Leetcode Logo](https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/788/475/datas/original.png)
 ## My solutions to the Leetcode 75 problems sheet.
 
 ### Solutions are written in C++ and sometimes python. 
