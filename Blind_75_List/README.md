@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<b>Total Solved Problems: 73 / 75 </b>
+<b>Total Solved Problems: 65 / 75 </b>
 
 #### Tags Status
 
