@@ -12,7 +12,7 @@
 
 <b>Total Solved Problems: 71 / 75 </b>
 
-#### Tags Status
+### Repo Status
 
 
 - [X] Array - String
