@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<b>Total Solved Problems: 65 / 75 </b>
+<b>Total Solved Problems: 71 / 75 </b>
 
 #### Tags Status
 
@@ -23,7 +23,7 @@
 - [X] Stack
 - [X] Queue
 - [X] Linked List
-- [ ] Binary Tree - DFS
+- [X] Binary Tree - DFS
 - [X] Binary Tree - BFS
 - [X] Binary Search Tree
 - [X] Graphs - DFS
