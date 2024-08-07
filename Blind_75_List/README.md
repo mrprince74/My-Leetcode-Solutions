@@ -1,4 +1,4 @@
-<img src = "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/788/475/datas/original.png" style = "display: block; width: 400px; margin: auto;">
+<img src = "https://assets.leetcode.com/users/images/31aa587d-3c2b-4c86-8b6c-119df48acf26_1709054297.567287.png">
 
 ## My solutions to the Leetcode Blind 75 problems sheet.
 
@@ -37,3 +37,5 @@
 - [X] Trie
 - [X] Intervals
 - [X] Monotonic Stack
+
+
