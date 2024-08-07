@@ -1,4 +1,4 @@
-<img src = "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/788/475/datas/original.png" width="200px" style = "display: block; width: 400px; margin: auto;">
+<img src = "https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/001/788/475/datas/original.png" style = "display: block; width: 400px; margin: auto;">
 
 ## My solutions to the Leetcode Blind 75 problems sheet.
 
