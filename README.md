@@ -109,4 +109,16 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Array
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Hash Table
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
