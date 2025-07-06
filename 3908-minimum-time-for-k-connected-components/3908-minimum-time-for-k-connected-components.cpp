@@ -2,7 +2,7 @@ const int INF = 1e9 + 10;
 class Solution {
     vector<vector<pair<int,int>>> adj; // {time, node}
     vector<int> vis;
-    int id = 0;
+    int id = 1;
     void dfs(int curTime, int node){
         vis[node] = id;
         for(auto [time, ch] : adj[node]){
@@ -29,7 +29,7 @@ public:
         int ans = -1;
         auto ok = [&](int curTime){
             int cmpCount = 0;
-            id++;
+            vis = vector<int>(n, 0);
             for(int i = 0; i < n and cmpCount < k; i++){
                 if (vis[i] == id)
                     continue;
