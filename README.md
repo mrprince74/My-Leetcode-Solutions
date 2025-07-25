@@ -113,12 +113,18 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Design
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Greedy
+|  |
+| ------- |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 <!---LeetCode Topics End-->
