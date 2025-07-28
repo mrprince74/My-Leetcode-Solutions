@@ -100,6 +100,7 @@ Whether you're here to study, contribute, or track progress—hope you find this
 ## Bit Manipulation
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
@@ -113,6 +114,7 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -127,4 +129,12 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
