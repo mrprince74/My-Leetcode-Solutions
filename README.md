@@ -96,6 +96,7 @@ Whether you're here to study, contribute, or track progress—hope you find this
 ## Math
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
@@ -119,6 +120,7 @@ Whether you're here to study, contribute, or track progress—hope you find this
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Design
@@ -136,5 +138,14 @@ Whether you're here to study, contribute, or track progress—hope you find this
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
