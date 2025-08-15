@@ -96,16 +96,19 @@ Whether you're here to study, contribute, or track progress—hope you find this
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
