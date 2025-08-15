@@ -114,12 +114,14 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Array
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,4 +153,16 @@ Whether you're here to study, contribute, or track progress—hope you find this
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+## Binary Search
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/mrprince74/My-Leetcode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
